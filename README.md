@@ -4,7 +4,7 @@
 [![Coverage Status](https://coveralls.io/repos/javiercejudo/linear-preset-to-decimal/badge.svg?branch=master)](https://coveralls.io/r/javiercejudo/linear-preset-to-decimal?branch=master)
 [![Code Climate](https://codeclimate.com/github/javiercejudo/linear-preset-to-decimal/badges/gpa.svg)](https://codeclimate.com/github/javiercejudo/linear-preset-to-decimal)
 
-Ensures a linear presets has decimals
+Ensures a linear scale has decimals
 
 ## Install
 
