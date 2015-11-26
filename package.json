@@ -1,7 +1,7 @@
 {
   "name": "linear-preset-to-decimal",
   "version": "1.1.0",
-  "description": "Ensures a linear scale has decimals",
+  "description": "Ensures a linear preset has decimals",
   "main": "src/index.js",
   "scripts": {
     "test": "gulp test"
