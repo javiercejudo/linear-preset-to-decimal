@@ -20,6 +20,9 @@ presetToDecimal([[0, 1], [32, 33.8]]);
 // => [[new Decimal('0'), new Decimal('1')], [new Decimal('32'), new Decimal('33.8')]]
 ```
 
+For the opposite behaviour, check [linear-preset-to-number](https://github.com/javiercejudo/linear-preset-to-number).
+
+
 ## Related projects
 
 - [linear-presets](https://github.com/javiercejudo/linear-presets): linear presets for common units.
